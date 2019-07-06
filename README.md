@@ -6,3 +6,5 @@ Add URL though prompt or text field. Should be https, if not will add https to y
 Select method to run on the URL and get result
 
 Can load/save websites and results or export the results to files
+
+-Requires JavaFX jar library files to compile and run
